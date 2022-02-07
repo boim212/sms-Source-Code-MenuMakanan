@@ -18,7 +18,7 @@ public class MenuMakanan {
         char pilih;
         String nama;
         Scanner input = new Scanner(System.in);
-        System.out.println("------- PROGRAM MENU MAKANAN \"MAK SRI\" -------");
+        System.out.println("------- PROGRAM MENU MAKANAN \"MAK Skuy\" -------");
         System.out.println("----------------------------------------------");
         System.out.println("");
         System.out.println("Menu Yang Ada");
@@ -35,33 +35,33 @@ public class MenuMakanan {
             if (pilih == 'O' || pilih == 'o'){
                 System.out.println("Maaf opornya tinggal kuah");
                 System.out.println("----------------------------------------------");
-                System.out.println("------- PROGRAM MENU MAKANAN \"MAK SRI\" -------");
+                System.out.println("------- PROGRAM MENU MAKANAN \"MAK Skuy\" -------");
                 System.out.println("----------------------------------------------");
             }
             else if (pilih == 'B' || pilih == 'b'){
                 System.out.println("Maaf bakminya habis");
                 System.out.println("----------------------------------------------");
-                System.out.println("------- PROGRAM MENU MAKANAN \"MAK SRI\" -------");
+                System.out.println("------- PROGRAM MENU MAKANAN \"MAK Skuy\" -------");
                 System.out.println("----------------------------------------------");
             }
             else if (pilih == 'R' || pilih == 'r'){
                 System.out.println("Maaf rendangnya belum matang");
                 System.out.println("----------------------------------------------");
-                System.out.println("------- PROGRAM MENU MAKANAN \"MAK SRI\" -------");
+                System.out.println("------- PROGRAM MENU MAKANAN \"MAK Skuy\" -------");
                 System.out.println("----------------------------------------------");
             }
             else if (pilih == 'S' || pilih == 's'){
                 System.out.println("Maaf satenya belum ditusukin");
                 System.out.println("----------------------------------------------");
-                System.out.println("------- PROGRAM MENU MAKANAN \"MAK SRI\" -------");
+                System.out.println("------- PROGRAM MENU MAKANAN \"MAK Skuy\" -------");
                 System.out.println("----------------------------------------------");
             }
             else{
                 System.out.println("pilihan salah");
                 System.out.println("----------------------------------------------");
-                System.out.println("------- PROGRAM MENU MAKANAN \"MAK SRI\" -------");
+                System.out.println("------- PROGRAM MENU MAKANAN \"MAK Skuy\" -------");
                 System.out.println("----------------------------------------------");
             }
-            System.out.println("--------------By Yudha 205314020--------------");
+            System.out.println("--------------By Skuy--------------");
     }
 }
