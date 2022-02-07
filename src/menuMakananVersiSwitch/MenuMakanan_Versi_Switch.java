@@ -19,7 +19,7 @@ public class MenuMakanan_Versi_Switch {
         char pilih;
         String nama;
         
-        System.out.println("------- PROGRAM MENU MAKANAN \"MAK SRI\" -------");
+        System.out.println("------- PROGRAM MENU MAKANAN \"MAK Skuy\" -------");
         System.out.println("----------------------------------------------");
         System.out.println("");
         System.out.println("Menu Yang Ada");
@@ -37,7 +37,7 @@ public class MenuMakanan_Versi_Switch {
                 case ('B'):
                     System.out.println("Maaf bakminya habis");
                     System.out.println("----------------------------------------------");
-                    System.out.println("------- PROGRAM MENU MAKANAN \"MAK SRI\" -------");
+                    System.out.println("------- PROGRAM MENU MAKANAN \"MAK Skuy\" -------");
                     System.out.println("----------------------------------------------");
                     break;
                 case ('b'):
@@ -49,46 +49,46 @@ public class MenuMakanan_Versi_Switch {
                 case ('O'):
                     System.out.println("Maaf opornya tinggal kuah");
                     System.out.println("----------------------------------------------");
-                    System.out.println("------- PROGRAM MENU MAKANAN \"MAK SRI\" -------");
+                    System.out.println("------- PROGRAM MENU MAKANAN \"MAK Skuy\" -------");
                     System.out.println("----------------------------------------------");
                     break;
                 case ('o'):
                     System.out.println("Maaf opornya tinggal kuah");
                     System.out.println("----------------------------------------------");
-                    System.out.println("------- PROGRAM MENU MAKANAN \"MAK SRI\" -------");
+                    System.out.println("------- PROGRAM MENU MAKANAN \"MAK Skuy\" -------");
                     System.out.println("----------------------------------------------");
                     break;
                 case ('R'):
                     System.out.println("Maaf rendangnya belum matang");
                     System.out.println("----------------------------------------------");
-                    System.out.println("------- PROGRAM MENU MAKANAN \"MAK SRI\" -------");
+                    System.out.println("------- PROGRAM MENU MAKANAN \"MAK Skuy\" -------");
                     System.out.println("----------------------------------------------");
                     break;
                 case ('r'):
                     System.out.println("Maaf rendangnya belum matang");
                     System.out.println("----------------------------------------------");
-                    System.out.println("------- PROGRAM MENU MAKANAN \"MAK SRI\" -------");
+                    System.out.println("------- PROGRAM MENU MAKANAN \"MAK Skuy\" -------");
                     System.out.println("----------------------------------------------");
                     break;
                 case ('S'):
                     System.out.println("Maaf satenya belum ditusukin");
                     System.out.println("----------------------------------------------");
-                    System.out.println("------- PROGRAM MENU MAKANAN \"MAK SRI\" -------");
+                    System.out.println("------- PROGRAM MENU MAKANAN \"MAK Skuy\" -------");
                     System.out.println("----------------------------------------------");
                     break;
                 case ('s'):
                     System.out.println("Maaf satenya belum ditusukin");
                     System.out.println("----------------------------------------------");
-                    System.out.println("------- PROGRAM MENU MAKANAN \"MAK SRI\" -------");
+                    System.out.println("------- PROGRAM MENU MAKANAN \"MAK Skuy\" -------");
                     System.out.println("----------------------------------------------");
                     break;
                 default:
                     System.out.println("Masih mikir");
                     System.out.println("----------------------------------------------");
-                    System.out.println("------- PROGRAM MENU MAKANAN \"MAK SRI\" -------");
+                    System.out.println("------- PROGRAM MENU MAKANAN \"MAK Skuy\" -------");
                     System.out.println("----------------------------------------------");
                     
             }
-        System.out.println("--------------By Yudha 205314020--------------");
+        System.out.println("--------------By Skuy--------------");
     }
 }
